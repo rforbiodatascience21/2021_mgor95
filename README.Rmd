@@ -1,0 +1,14 @@
+---
+title: "Reproducible Data Analysis Framework Exercise"
+author: "mgor95"
+date: '2021-03-15'
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Description
+
+group 4, lab 7 exercise
